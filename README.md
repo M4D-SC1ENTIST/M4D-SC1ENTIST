@@ -1,4 +1,4 @@
-## Hey 👋, I'm Xiatao
+## Hey 👋, I'm [Xiatao](https://sunxiatao.me/)
 
 ### 👨‍💻 About me
 I am a master student majoring in Robotics at the University of Pennsylvania. I received my B.S. degree in Mechanical Engineering from Rensselaer Polytechnic Institute. I'm interested in applying learning-based methods to solve problems in robotics. I am also working on some side projects in game development in my spare time. 

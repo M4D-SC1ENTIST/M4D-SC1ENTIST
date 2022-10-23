@@ -6,7 +6,7 @@ I am a master student majoring in Robotics at the University of Pennsylvania. I 
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/M4D-SC1ENTIST)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/xiatao-sun-77646b14b/)
 [![Zhihu](https://img.shields.io/badge/知乎-white?logo=zhihu)](https://www.zhihu.com/people/sun-xia-tao)
-[![GMail](https://img.shields.io/badge/Gmail-white?logo=gmail)](sunxiatao@gmail.com)
+[![GMail](https://img.shields.io/badge/Gmail-white?logo=gmail)](mailto:sunxiatao@gmail.com)
 
 - 📫 I'm currently applying for PhD
 

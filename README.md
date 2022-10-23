@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Xiatao
 
-### 👨‍💻 About Me
+### 👨‍💻 About me
 I am a master student majoring in Robotics at the University of Pennsylvania. I received my B.S. degree in Mechanical Engineering from Rensselaer Polytechnic Institute. I'm interested in applying learning-based methods to solve problems in robotics. I am also working on some side projects in game development in my spare time. 
 
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/M4D-SC1ENTIST)
@@ -14,9 +14,28 @@ I am a master student majoring in Robotics at the University of Pennsylvania. I 
 
 - 📙 Check out my [personal website](https://sunxiatao.me/) and [resume](https://sunxiatao.me/resume.pdf). 
 
-### :hammer_and_wrench: Some Tools : 
+### :hammer_and_wrench: Some tools that I use 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/develop/icons/ros/ros-original-wordmark.svg" title="ROS" alt="ROS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/develop/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/develop/icons/bash/bash-plain.svg" title="Bash" alt="Bash" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/develop/icons/ros/ros-original.svg" title="ROS" alt="ROS" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/develop/icons/cmake/cmake-original.svg" title="CMake" alt="CMake" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/develop/icons/unrealengine/unrealengine-original.svg" title="UE" alt="UE" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/develop/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/develop/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/develop/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/develop/icons/fastapi/fastapi-plain.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/develop/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/develop/icons/anaconda/anaconda-original.svg" title="Conda" alt="Conda" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/develop/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/develop/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/develop/icons/cplusplus/cplusplus-plain.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/develop/icons/csharp/csharp-plain.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/develop/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/develop/icons/javascript/javascript-plain.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/develop/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/develop/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/develop/icons/mysql/mysql-plain.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
 

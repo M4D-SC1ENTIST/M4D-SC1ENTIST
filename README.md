@@ -1,18 +1,18 @@
 ## Hey 👋, I'm [Xiatao](https://sunxiatao.me/)
 
 ### 👨‍💻 About me
-I am a master student majoring in Robotics at the University of Pennsylvania. I received my B.S. degree in Mechanical Engineering from Rensselaer Polytechnic Institute. I'm interested in applying learning-based methods to solve problems in robotics. I am also working on some side projects in game development in my spare time. 
+
+
+- 📫 I am a master student majoring in Robotics at the University of Pennsylvania. I received my B.S. degree in Mechanical Engineering from Rensselaer Polytechnic Institute. I'm currently applying for PhD.
+
+- ❤️ I'm interested in applying learning-based methods to solve problems in robotics. I am also working on some side projects on game development, web development, and bug bounty in my spare time. 
+
+- 📝 Check out my [website](https://sunxiatao.me/) and [resume](https://sunxiatao.me/resume.pdf) for more info.  
 
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/M4D-SC1ENTIST)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/xiatao-sun-77646b14b/)
 [![Zhihu](https://img.shields.io/badge/知乎-white?logo=zhihu)](https://www.zhihu.com/people/sun-xia-tao)
 [![GMail](https://img.shields.io/badge/Gmail-white?logo=gmail)](mailto:sunxiatao@gmail.com)
-
-- 📫 I'm currently applying for PhD
-
-- 📙 I'm currently working on imitation learning for perception-aware planning as my master's thesis.
-
-- 📝 Check out my [website](https://sunxiatao.me/) and [resume](https://sunxiatao.me/resume.pdf). 
 
 ### :hammer_and_wrench: Some tools that I use 
 <div>

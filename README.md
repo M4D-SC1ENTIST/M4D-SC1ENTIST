@@ -10,9 +10,9 @@ I am a master student majoring in Robotics at the University of Pennsylvania. I 
 
 - 📫 I'm currently applying for PhD
 
-- 📝 I'm currently working on imitation learning for perception-aware planning as my master's thesis.
+- 📙 I'm currently working on imitation learning for perception-aware planning as my master's thesis.
 
-- 📙 Check out my [website](https://sunxiatao.me/) and [resume](https://sunxiatao.me/resume.pdf). 
+- 📝 Check out my [website](https://sunxiatao.me/) and [resume](https://sunxiatao.me/resume.pdf). 
 
 ### :hammer_and_wrench: Some tools that I use 
 <div>

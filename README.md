@@ -3,9 +3,9 @@
 ### 👨‍💻 About me
 
 
-- 📫 I am a master student majoring in Robotics at the University of Pennsylvania. I received my B.S. degree in Mechanical Engineering from Rensselaer Polytechnic Institute. I'm currently applying for PhD.
+- 📫 I am a PhD student majoring in Computer Science at Yale University. I received my B.S. degree in Mechanical Engineering from Rensselaer Polytechnic Institute and my master degree in Robotics at the University of Pennsylvania.
 
-- ❤️ I'm interested in applying learning-based methods to solve problems in robotics. I am also working on some side projects on game development, web development, and bug bounty in my spare time. 
+- ❤️ I'm interested in applying learning-based methods to solve problems in robotics. I am also working on some side projects on game development. 
 
 - 📝 Check out my [website](https://sunxiatao.me/) and [resume](https://sunxiatao.me/resume.pdf) for more info.  
 

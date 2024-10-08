@@ -14,31 +14,6 @@
 [![Zhihu](https://img.shields.io/badge/知乎-white?logo=zhihu)](https://www.zhihu.com/people/sun-xia-tao)
 [![GMail](https://img.shields.io/badge/Gmail-white?logo=gmail)](mailto:sunxiatao@gmail.com)
 
-### :hammer_and_wrench: Some tools that I use 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/develop/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/develop/icons/bash/bash-plain.svg" title="Bash" alt="Bash" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/develop/icons/ros/ros-original.svg" title="ROS" alt="ROS" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/develop/icons/cmake/cmake-original.svg" title="CMake" alt="CMake" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/develop/icons/unrealengine/unrealengine-original.svg" title="UE" alt="UE" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/develop/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/develop/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/develop/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/develop/icons/fastapi/fastapi-plain.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/develop/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/develop/icons/anaconda/anaconda-original.svg" title="Conda" alt="Conda" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/develop/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/develop/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/develop/icons/cplusplus/cplusplus-plain.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/develop/icons/csharp/csharp-plain.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/develop/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/develop/icons/javascript/javascript-plain.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/develop/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/develop/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/develop/icons/mysql/mysql-plain.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-</div>
-
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=M4D-SC1ENTIST&theme=dark)](https://git.io/streak-stats)
 <!-- http://github-readme-streak-stats.herokuapp.com/demo/ >
 

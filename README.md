@@ -5,7 +5,7 @@
 
 - 📫 I am a PhD student majoring in Computer Science at Yale University. I received my B.S. degree in Mechanical Engineering from Rensselaer Polytechnic Institute and my M.S.E. degree in Robotics at the University of Pennsylvania.
 
-- ❤️ I'm interested in applying learning-based methods to solve problems in robotics. I am also working on some side projects on game development. 
+- ❤️ My research explores the intersection of spatial learning, artificial intelligence, and robotics. 
 
 - 📝 Check out my [website](https://sunxiatao.me/) and [resume](https://sunxiatao.me/resume.pdf) for more info.  
 
